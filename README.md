@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2Z2p1b250ajJjajg5dG80YjU1NXc0eG5kbHVvdnFzNnR2a3U5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T1I3qB4b4kUvS0/giphy.gif" alt="Coding Banner">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RkbXlrc2IwZXJwejRhdXEzNHpzaTg5bzhyY3ZwcG01dG1zdTJ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Hacker Coding GIF">
 </p>
+
+
 
 <h1 align="center">
   Merhaba, ben Mehmet Çelik <img src="https://user-images.githubusercontent.com/73097560/115834454-a3809e80-a438-11eb-9d34-5c49f32375a9.gif" width="35">
@@ -17,8 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CelkMehmett/CelkMehmett/output/github-contribution-grid-snake.svg" alt="Mehmet's Contribution Snake">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTc2NHlrcGF6dzZkYnZwYmQ2NXJpdm5udmdtbDVtNjQ0bmg0dHZtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" alt="Terminal Hacking Animation">
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
 
