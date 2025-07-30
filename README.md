@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Merhaba, ben Mehmet Çelik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Merhaba, ben Mehmet Çelik <img src="https://user-images.githubusercontent.com/73097560/115834454-a3809e80-a438-11eb-9d34-5c49f32375a9.gif" width="35">
 </h1>
 
 <h3 align="center">Mobil Dünya ile Yapay Zeka Arasında Köprüler Kuran Bir Flutter Geliştiricisiyim 🌉</h3>
