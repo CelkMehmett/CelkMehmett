@@ -2,40 +2,37 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RkbXlrc2IwZXJwejRhdXEzNHpzaTg5bzhyY3ZwcG01dG1zdTJ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Hacker Coding GIF">
 </p>
 
-
-
 <h1 align="center">
-  Merhaba, ben Mehmet Çelik <img src="https://user-images.githubusercontent.com/73097560/115834454-a3809e80-a438-11eb-9d34-5c49f32375a9.gif" width="35">
+  Hello, I'm Mehmet Çelik <img src="https://user-images.githubusercontent.com/73097560/115834454-a3809e80-a438-11eb-9d34-5c49f32375a9.gif" width="35">
 </h1>
 
-<h3 align="center">Mobil Dünya ile Yapay Zeka Arasında Köprüler Kuran Bir Flutter Geliştiricisiyim 🌉</h3>
+<h3 align="center">A Flutter Developer Building Bridges Between Mobile and AI 🌉</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%F0%9F%93%B1+%2B+AI+%F0%9F%A7%A0+Developer;11%2B+Dart+ML+Libraries+%F0%9F%93%9C;Offline+LLM+Projects+%F0%9F%9A%80;Open+Source+Lover+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%F0%9F%93%B1+%2B+AI+%F0%9F%A7%A0+Developer;15%2B+Dart+ML+Libraries+%F0%9F%93%9C;Offline+LLM+Projects+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>"Dart ekosistemi için teker teker makine öğrenmesi kütüphaneleri geliştirerek, yapay zekayı herkes için erişilebilir kılmaya çalışıyorum."</i>
+  <i>"Making AI accessible to everyone by developing machine learning libraries one by one for the Dart ecosystem."</i>
 </p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTc2NHlrcGF6dzZkYnZwYmQ2NXJpdm5udmdtbDVtNjQ0bmg0dHZtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" alt="Terminal Hacking Animation">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
+
+## 🎯 About Me
+
+- 🚀 I develop intelligent, offline-capable mobile experiences using **Flutter** and **ONNX**.
+- 🧠 Passionate about on-device **Machine Learning**, **LLMs**, and creating performant ML tools for the Dart ecosystem.
+- 📦 Published **15+ open-source** Dart/Flutter packages on pub.dev to empower fellow developers.
+- 🌱 Continuously improving myself with the goal of becoming a **Google Developer Expert (GDE)** in Flutter & Dart.
+- ✍️ I share my technical articles and learnings on my [Dev.to](https://dev.to/celkmehmett) profile.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
 
-## 🎯 Hakkımda
-
-- 🚀 **Flutter** ve **ONNX** kullanarak akıllı, çevrimdışı çalışabilen mobil deneyimler geliştiriyorum.
-- 🧠 Cihaz üzerinde **Makine Öğrenmesi**, **LLM'ler** ve Dart ekosistemi için performanslı ML araçları oluşturma konusunda tutkuluyum.
-- 📦 Fellow geliştiricileri güçlendirmek için pub.dev üzerinde **11'den fazla açık kaynaklı** Dart/Flutter paketi yayınladım.
-- 🌱 Flutter & Dart alanında bir **Google Developer Expert (GDE)** olma hedefiyle kendimi sürekli geliştiriyorum.
-- ✍️ Teknik makalelerimi ve öğrendiklerimi [Dev.to](https://dev.to/celkmehmett) profilimde paylaşıyorum.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
-
-## 🛠️ Dijital Alet Çantam
+## 🛠️ Digital Toolbox
 
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> </a>
@@ -52,38 +49,54 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
 
-## 📦 Açık Kaynak Kütüphanelerim
+## 📦 My Open Source Libraries
 
-Bilgiyi paylaşmanın gücüne inanıyorum. İşte en popüler paketlerimden bazıları:
+I believe in the power of sharing knowledge. Here are some of my most popular packages:
 
-| Paket 📦 | Açıklama 📝 |
-| :--- | :--- |
-| **[`ml_knn`](https://pub.dev/packages/ml_knn)** | Dart ile yazılmış K-Nearest Neighbors (KNN) algoritması. |
-| **[`ml_naive_bayes`](https://pub.dev/packages/ml_naive_bayes)** | Saf Dart ile geliştirilmiş Naive Bayes sınıflandırıcısı. |
-| **[`ml_anomaly_detector`](https://pub.dev/packages/ml_anomaly_detector)** | Isolation Forest & LOF ile anomali tespiti. |
-| **[`ml_dataset_loader`](https://pub.dev/packages/ml_dataset_loader)** | CSV/JSON formatındaki veri setlerini kolayca yükleyin. |
-| **[`app_guardian`](https://pub.dev/packages/app_guardian)** | Flutter uygulamaları için Jailbreak/Root tespiti. |
-| **...ve daha fazlası** | 👉 **[Tüm paketlerimi görüntüle](https://pub.dev/publishers/celkmehmett/packages)** |
+### Machine Learning Libraries
 
-<img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
-
-## 📱 Öne Çıkan Projelerim
-
-İşte üzerinde çalıştığım ve gurur duyduğum bazı projeler:
-
-| Proje ✨ | Açıklama 📝 | Teknoloji 🛠️ |
+| Package 📦 | Description 📝 | Downloads ⬇️ |
 | :--- | :--- | :--- |
-| **FocusHero** | Verimliliği artırmak için çevrimdışı bir LLM içeren, yapay zeka destekli Pomodoro ve görev yöneticisi. | `Flutter`, `ONNX`, `Riverpod`, `SQLite` |
-| **GreenPact** | İklim eylemini teşvik eden ve ekolojik etkiyi oyunlaştıran bir platform. | `Flutter`, `Firebase`, `Flame Engine` |
-| **MergeNius** | Görevleri yapay zeka ile otomatik etiketleyen, Pomodoro entegreli akıllı bir yapılacaklar listesi uygulaması. | `Flutter`, `ONNX`, `Riverpod`, `Firebase` |
-| **SisterSOS** | Kadınlar için acil durumlarda hızlı yardım sağlamak üzere tasarlanmış güvenlik uygulaması. | `Flutter`, `Firebase`, `Google Maps API` |
-| **Mameo** | Anneler için topluluk desteği ve kaynaklar sunan bir sosyal platform. | `Flutter`, `Firebase`, `Riverpod` |
+| **[`ml_knn`](https://pub.dev/packages/ml_knn)** | K-Nearest Neighbors (KNN) algorithm written in Dart. | ![Downloads](https://img.shields.io/pub/downloads/ml_knn) |
+| **[`ml_naive_bayes`](https://pub.dev/packages/ml_naive_bayes)** | Naive Bayes classifier developed with pure Dart. | ![Downloads](https://img.shields.io/pub/downloads/ml_naive_bayes) |
+| **[`ml_linear_regression`](https://pub.dev/packages/ml_linear_regression)** | Linear regression implementation for Dart. | ![Downloads](https://img.shields.io/pub/downloads/ml_linear_regression) |
+| **[`ml_logistic_regression`](https://pub.dev/packages/ml_logistic_regression)** | Logistic regression implementation for Dart. | ![Downloads](https://img.shields.io/pub/downloads/ml_logistic_regression) |
+| **[`ml_anomaly_detector`](https://pub.dev/packages/ml_anomaly_detector)** | Anomaly detection with Isolation Forest & LOF. | ![Downloads](https://img.shields.io/pub/downloads/ml_anomaly_detector) |
+| **[`ml_dataset_loader`](https://pub.dev/packages/ml_dataset_loader)** | Easily load datasets in CSV/JSON format. | ![Downloads](https://img.shields.io/pub/downloads/ml_dataset_loader) |
+| **[`dart_irt`](https://pub.dev/packages/dart_irt)** | Item Response Theory implementation in Dart. | ![Downloads](https://img.shields.io/pub/downloads/dart_irt) |
+
+### Security & Utility Libraries
+
+| Package 📦 | Description 📝 | Downloads ⬇️ |
+| :--- | :--- | :--- |
+| **[`security_guardian`](https://pub.dev/packages/security_guardian)** | Comprehensive security analysis for applications. | ![Downloads](https://img.shields.io/pub/downloads/security_guardian) |
+| **[`app_guardian`](https://pub.dev/packages/app_guardian)** | Jailbreak/Root detection for Flutter applications. | ![Downloads](https://img.shields.io/pub/downloads/app_guardian) |
+| **[`mobile_root_checker`](https://pub.dev/packages/mobile_root_checker)** | Flutter package for detecting rooted devices. | ![Downloads](https://img.shields.io/pub/downloads/mobile_root_checker) |
+| **[`zk_vault`](https://pub.dev/packages/zk_vault)** | Zero-knowledge secure storage package. | ![Downloads](https://img.shields.io/pub/downloads/zk_vault) |
+
+<p align="center">
+  <strong>👉 [View all my packages](https://pub.dev/publishers/celkmehmett/packages)</strong>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
 
-## 🌍 Hadi Bağlantı Kuralım!
+## 📱 Featured Projects
 
-Yeni projeleri, yaratıcı fikirleri veya harika bir ekibin parçası olma fırsatlarını konuşmaya her zaman açığım.
+Here are some projects I've worked on and am proud of:
+
+| Project ✨ | Description 📝 | Technology 🛠️ |
+| :--- | :--- | :--- |
+| **FocusHero** | AI-powered Pomodoro and task manager with offline LLM to boost productivity. | `Flutter`, `ONNX`, `Riverpod`, `SQLite` |
+| **GreenPact** | A platform that gamifies ecological impact and encourages climate action. | `Flutter`, `Firebase`, `Flame Engine` |
+| **MergeNius** | Smart to-do list app with Pomodoro integration that auto-tags tasks with AI. | `Flutter`, `ONNX`, `Riverpod`, `Firebase` |
+| **SisterSOS** | Safety app designed to provide quick help in emergencies for women. | `Flutter`, `Firebase`, `Google Maps API` |
+| **Mameo** | A social platform providing community support and resources for mothers. | `Flutter`, `Firebase`, `Riverpod` |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834429-6e359480-a438-11eb-8423-e25b041ac490.gif" alt="divider" width="100%">
+
+## 🌍 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of a great team.
 
 <p align="center">
   <a href="https://dev.to/celkmehmett"><img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
@@ -100,7 +113,7 @@ Yeni projeleri, yaratıcı fikirleri veya harika bir ekibin parçası olma fırs
 </p>
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=CelkMehmett&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="celkmehmett profil görüntülenme sayısı" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=CelkMehmett&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="celkmehmett profile views" />
 </p>
 
-> 🚀 **Geliştirmeye Devam Et. Paylaşmaya Devam Et. Her Seferinde Bir ML Kütüphanesi.**
+> 🚀 **Keep Developing. Keep Sharing. One ML Library at a Time.**
