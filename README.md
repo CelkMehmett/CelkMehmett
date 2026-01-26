@@ -1,41 +1,42 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" />
 </p>
 
 <h1 align="center">
-  Mehmet Çelik 👋
+  Mehmet Çelik 🚀
 </h1>
 
 <h3 align="center">
-  Privacy-first • Offline-capable • On-device AI Systems
+  <span style="color:#8B5CF6">Privacy-first</span> • 
+  <span style="color:#22C55E">Offline-capable</span> • 
+  <span style="color:#0EA5E9">On-device AI Systems</span>
 </h3>
 
 <p align="center">
-  <i>
-    Building reliable AI products that run where data is created — not where it is harvested.
-  </i>
+  <sub>I don’t ship demos. I ship systems that survive real users.</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=On-device+AI+%26+Offline+ML;Privacy-first+AI+Systems;Self-healing+FinTech+Platforms;Dart+%26+Flutter+ML+Ecosystem+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=On-device+AI+that+actually+ships;Privacy-first+by+default;Offline-first+ML+systems;Dart+%26+Flutter+ML+Ecosystem+Builder;Reliability+over+hype" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I build **production-grade AI systems**, not demos.
+I build **production-grade AI systems** — not slides, not demos.
 
-My work focuses on:
-- **On-device & offline AI**
-- **Privacy-by-design architectures**
-- **Self-healing financial and operational systems**
-- **Mobile-first AI at scale**
+My focus:
+- 🧠 **On-device & offline AI**
+- 🔐 **Privacy-by-design architectures**
+- 🧬 **Self-healing financial systems**
+- 📱 **Mobile-first AI at scale**
 
-I am the creator of **15+ open-source Dart/Flutter packages** and an active builder in the **Dart ML ecosystem**.
+Creator of **15+ open-source Dart/Flutter packages**  
+Actively shaping the **Dart ML ecosystem**
 
 <p align="center">
-  🔗 <a href="https://pub.dev/my-packages?next=ml_knn">pub.dev packages</a> •
+  🔗 <a href="https://pub.dev/my-packages?next=ml_knn">pub.dev</a> •
   <a href="https://github.com/CelkMehmett">GitHub</a> •
   <a href="https://dev.to/celkmehmett">Dev.to</a>
 </p>
@@ -44,95 +45,39 @@ I am the creator of **15+ open-source Dart/Flutter packages** and an active buil
 
 ## 🎯 Positioning
 
-> **I build privacy-first, offline-capable AI products — from on-device mobile intelligence to self-healing financial systems — focused on real-world reliability, not demos.**
+> **I build AI systems that work without cloud dependency,  
+> respect user privacy by default,  
+> and don’t collapse in production.**
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
-<table>
-<tr>
-<th>Project</th>
-<th>Focus</th>
-<th>Core Tech</th>
-</tr>
-
-<tr>
-<td><b>RDRH</b></td>
-<td>AI-driven financial reconciliation & self-healing bank ops</td>
-<td>AI Autopilot, Anomaly Detection</td>
-</tr>
-
-<tr>
-<td><b>MobileFraud</b></td>
-<td>On-device fraud detection for SMS & messaging</td>
-<td>TensorFlow Lite, On-device NLP</td>
-</tr>
-
-<tr>
-<td><b>Gulf Expat Money OS</b></td>
-<td>Automated income routing for expats</td>
-<td>Flutter, Python (FastAPI)</td>
-</tr>
-
-<tr>
-<td><b>Anonymus</b></td>
-<td>Modest fashion community with AI auto-masking</td>
-<td>Privacy-first Computer Vision</td>
-</tr>
-
-<tr>
-<td><b>Respiro</b></td>
-<td>Stress & burnout detection via 10s voice analysis</td>
-<td>On-device Voice AI</td>
-</tr>
-
-<tr>
-<td><b>ProofFlow</b></td>
-<td>Micro-agency & freelancer management OS</td>
-<td>SaaS, AI Assistant</td>
-</tr>
-
-<tr>
-<td><b>CRISPR-FinAI</b></td>
-<td>Self-healing trading intelligence</td>
-<td>Python, Genetic Algorithms</td>
-</tr>
-
-<tr>
-<td><b>Riskk</b></td>
-<td>LSTM-based portfolio & price prediction</td>
-<td>ONNX, LSTM</td>
-</tr>
-
-<tr>
-<td><b>MergeNius</b></td>
-<td>AI task tagging + Pomodoro</td>
-<td>Flutter, On-device AI</td>
-</tr>
-
-<tr>
-<td><b>Mameo</b></td>
-<td>Mothers community & health platform</td>
-<td>Flutter</td>
-</tr>
-
-<tr>
-<td><b>SisterSOS</b></td>
-<td>Emergency safety platform for women</td>
-<td>Flutter, Firebase</td>
-</tr>
-</table>
+| 🚧 Project | 🎯 Focus | 🧠 Core Tech |
+|-----------|---------|------------|
+| **RDRH** | Self-healing bank operations | Anomaly Detection |
+| **MobileFraud** | On-device fraud detection | TensorFlow Lite, NLP |
+| **Gulf Expat Money OS** | Automated income routing | Flutter, FastAPI |
+| **Anonymus** | Privacy-first modest fashion | On-device CV |
+| **Respiro** | Stress detection via voice | On-device Voice AI |
+| **ProofFlow** | Micro-agency OS | SaaS, AI Assistant |
+| **CRISPR-FinAI** | Adaptive trading intelligence | Genetic Algorithms |
+| **Riskk** | LSTM portfolio prediction | ONNX, LSTM |
+| **MergeNius** | AI task tagging + Pomodoro | Flutter, On-device AI |
+| **Mameo** | Mothers community platform | Flutter |
+| **SisterSOS** | Emergency safety system | Flutter, Firebase |
 
 ---
 
-## 📦 Open Source • pub.dev
+## 📦 Open Source Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/15%2B%20Packages-pub.dev-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/15%2B%20Packages-pub.dev-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Offline%20ML-Dart-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Privacy--First-Architecture-0EA5E9?style=for-the-badge" />
 </p>
 
-**Machine Learning**
+### Machine Learning
 - `ml_knn`
 - `ml_naive_bayes`
 - `ml_linear_regression`
@@ -141,7 +86,7 @@ I am the creator of **15+ open-source Dart/Flutter packages** and an active buil
 - `ml_dataset_loader`
 - `dart_irt`
 
-**Security & Utilities**
+### Security & Utilities
 - `security_guardian`
 - `app_guardian`
 - `mobile_root_checker`
@@ -154,11 +99,7 @@ I am the creator of **15+ open-source Dart/Flutter packages** and an active buil
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-005CEC?style=for-the-badge&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,tensorflow,linux&theme=dark" />
 </p>
 
 ---
@@ -166,12 +107,17 @@ I am the creator of **15+ open-source Dart/Flutter packages** and an active buil
 ## 🌍 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mehmet-%C3%A7elik-11237886/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a>
-  <a href="https://github.com/CelkMehmett"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/mehmet-%C3%A7elik-11237886/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/CelkMehmett">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Build reliable systems. Ship real products. Respect privacy.</b>
+  <b>Build systems that survive reality.</b><br/>
+  <sub>Privacy is not a feature. It’s a constraint.</sub>
 </p>
