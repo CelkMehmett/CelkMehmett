@@ -253,13 +253,15 @@ fn build_ai_system() -> Result<Production, Demo> {
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CelkMehmett&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22C55E&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelkMehmett&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22C55E&currStreakLabel=8B5CF6" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CelkMehmett&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22C55E&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelkMehmett&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CelkMehmett&theme=tokyonight&utcOffset=3" alt="Productive Time" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelkMehmett&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22C55E&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelkMehmett&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8&card_width=445" alt="Top Languages" />
 </p>
 
 </div>
@@ -267,7 +269,6 @@ fn build_ai_system() -> Result<Production, Demo> {
 ---
 
 <div align="center">
-
 
 ## 🌐 **Connect & Collaborate**
 
