@@ -1,123 +1,106 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" />
 </p>
 
 <h1 align="center">
-  Mehmet Çelik 🚀
+  <samp>Mehmet Çelik</samp> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" />
 </h1>
 
-<h3 align="center">
-  <span style="color:#8B5CF6">Privacy-first</span> • 
-  <span style="color:#22C55E">Offline-capable</span> • 
-  <span style="color:#0EA5E9">On-device AI Systems</span>
-</h3>
-
 <p align="center">
-  <sub>I don’t ship demos. I ship systems that survive real users.</sub>
+  <a href="https://pub.dev/publishers/celik.dev"><img src="https://img.shields.io/badge/Dart_Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="https://github.com/CelkMehmett"><img src="https://img.shields.io/badge/ML_Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mehmet-%C3%A7elik-11237886/"><img src="https://img.shields.io/badge/Privacy_Architect-8B5CF6?style=for-the-badge&logo=shield&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=On-device+AI+that+actually+ships;Privacy-first+by+default;Offline-first+ML+systems;Dart+%26+Flutter+ML+Ecosystem+Builder;Reliability+over+hype" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Systems+that+survive+reality;Privacy-first+by+default;Offline-capable+Intelligence;Shaping+the+Dart+ML+Ecosystem;Reliability+over+Hype" />
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚡ Executive Summary
 
-I build **production-grade AI systems** — not slides, not demos.
+> **"I don’t ship demos. I ship production-grade systems that don't collapse when the internet does."**
 
-My focus:
-- 🧠 **On-device & offline AI**
-- 🔐 **Privacy-by-design architectures**
-- 🧬 **Self-healing financial systems**
-- 📱 **Mobile-first AI at scale**
+I specialize in the intersection of **On-Device Machine Learning** and **High-Stakes Finance**. While others are waiting for API responses, I'm building self-healing systems that run locally, respect user privacy, and scale without cloud costs.
 
-Creator of **15+ open-source Dart/Flutter packages**  
-Actively shaping the **Dart ML ecosystem**
+---
 
-<p align="center">
-  🔗 <a href="https://pub.dev/my-packages?next=ml_knn">pub.dev</a> •
-  <a href="https://github.com/CelkMehmett">GitHub</a> •
-  <a href="https://dev.to/celkmehmett">Dev.to</a>
+## 🏗️ Architecture Focus
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Edge Intelligence</h3>
+      <ul>
+        <li><b>On-device CV & NLP:</b> TensorFlow Lite & ONNX.</li>
+        <li><b>Offline-First ML:</b> Privacy by design.</li>
+        <li><b>Self-Healing Ops:</b> Anomaly detection for FinTech.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 Engineering Excellence</h3>
+      <ul>
+        <li><b>Dart ML Ecosystem:</b> 15+ Core packages.</li>
+        <li><b>Hardened Security:</b> Root detection & ZK vaults.</li>
+        <li><b>Performance:</b> Low-latency inference on mobile.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Deployments
+
+| 🛸 System | 🛠️ Core Stack | 🎯 Impact |
+| :--- | :---: | :--- |
+| **RDRH** | `ML` • `FinTech` | Self-healing bank operations through real-time anomaly detection. |
+| **MobileFraud** | `TFLite` • `NLP` | Predictive fraud prevention running entirely on-device. |
+| **CRISPR-FinAI** | `Genetic Algos` | Adaptive trading intelligence that evolves with market shifts. |
+| **Riskk** | `LSTM` • `ONNX` | Real-time portfolio risk prediction for high-volatility assets. |
+| **Anonymus** | `Computer Vision` | Privacy-centric AI for the modest fashion industry. |
+
+---
+
+## 📦 Open Source Laboratory
+<p align="left"><i>I'm actively building the missing pieces of the Dart/Flutter ML ecosystem.</i></p>
+
+- 📉 **Machine Learning:** `ml_knn`, `ml_naive_bayes`, `ml_anomaly_detector`, `dart_irt`
+- 🛡️ **Security & Trust:** `security_guardian`, `app_guardian`, `zk_vault`
+- ⚙️ **Utilities:** `ml_dataset_loader`, `mobile_root_checker`
+
+<p align="left">
+  <a href="https://pub.dev/my-packages?next=ml_knn">
+    <img src="https://repobeats.axiom.co/api/embed/57e96b34698501255e258679f29910d540306132.svg" title="Repobeats analytics" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Positioning
-
-> **I build AI systems that work without cloud dependency,  
-> respect user privacy by default,  
-> and don’t collapse in production.**
-
----
-
-## 🚀 Selected Projects
-
-| 🚧 Project | 🎯 Focus | 🧠 Core Tech |
-|-----------|---------|------------|
-| **RDRH** | Self-healing bank operations | Anomaly Detection |
-| **MobileFraud** | On-device fraud detection | TensorFlow Lite, NLP |
-| **Gulf Expat Money OS** | Automated income routing | Flutter, FastAPI |
-| **Anonymus** | Privacy-first modest fashion | On-device CV |
-| **Respiro** | Stress detection via voice | On-device Voice AI |
-| **ProofFlow** | Micro-agency OS | SaaS, AI Assistant |
-| **CRISPR-FinAI** | Adaptive trading intelligence | Genetic Algorithms |
-| **Riskk** | LSTM portfolio prediction | ONNX, LSTM |
-| **MergeNius** | AI task tagging + Pomodoro | Flutter, On-device AI |
-| **Mameo** | Mothers community platform | Flutter |
-| **SisterSOS** | Emergency safety system | Flutter, Firebase |
-
----
-
-## 📦 Open Source Impact
+## 🛠️ The War Chest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/15%2B%20Packages-pub.dev-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Offline%20ML-Dart-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Privacy--First-Architecture-0EA5E9?style=for-the-badge" />
-</p>
-
-### Machine Learning
-- `ml_knn`
-- `ml_naive_bayes`
-- `ml_linear_regression`
-- `ml_logistic_regression`
-- `ml_anomaly_detector`
-- `ml_dataset_loader`
-- `dart_irt`
-
-### Security & Utilities
-- `security_guardian`
-- `app_guardian`
-- `mobile_root_checker`
-- `zk_vault`
-
-👉 https://pub.dev/my-packages?next=ml_knn
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,tensorflow,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,tensorflow,linux,firebase,docker,github,postman&perline=5" />
 </p>
 
 ---
 
-## 🌍 Connect
+## 🤝 Let's Build the Future of Privacy
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmet-%C3%A7elik-11237886/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/CelkMehmett">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:contact@celik.dev">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>Build systems that survive reality.</b><br/>
-  <sub>Privacy is not a feature. It’s a constraint.</sub>
+  <sub><b>Privacy is not a feature. It’s a fundamental constraint.</b></sub>
 </p>
