@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Mehmet%20Çelik&fontSize=90&fontAlignY=35&desc=Architecting%20Privacy-First%20AI%20Systems&descAlignY=51&descSize=20&animation=fadeIn)
 
-<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0cTFkYW9rZWluczEwZ3F6dTh3ZzZkcjJ2ZXFnNTMzcXl5aDc1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif]" width="500" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0cTFkYW9rZWluczEwZ3F6dTh3ZzZkcjJ2ZXFnNTMzcXl5aDc1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="500">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=On-device+AI+that+actually+ships+%F0%9F%9A%80;Privacy-first+by+default+%F0%9F%94%90;Offline-first+ML+systems+%F0%9F%8C%90;Dart+%26+Flutter+ML+Ecosystem+Builder+%F0%9F%93%A6;Reliability+over+hype+%E2%9A%A1)](https://git.io/typing-svg)
 
